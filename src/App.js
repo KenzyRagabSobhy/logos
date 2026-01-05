@@ -25,7 +25,7 @@ function App() {
         </a>
 
         <a
-          href="https://www.instagram.com/dahabnaturalroyal?igsh=MWY2NGZoaGoyZXp1eQ%3D%3D"
+          href="https://www.instagram.com/dahabnaturalroyal"
           target="_blank"
           rel="noreferrer"
           className="icon instagram"
@@ -37,7 +37,7 @@ function App() {
         </a>
 
         <a
-          href="https://www.tiktok.com/@dahab.natural.roy?_r=1&_t=ZS-92kJv9764Gt"
+          href="https://www.tiktok.com/@dahab.natural.roy"
           target="_blank"
           rel="noreferrer"
           className="icon tiktok"
